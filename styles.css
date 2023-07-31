@@ -1,0 +1,87 @@
+html{
+    background-color: #122543;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 100px;
+    font-family: 'Concert One', cursive;
+font-family: 'Merriweather', serif;
+text-shadow:rgba(235, 6, 75, 0.774) 1px 1px 8px;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+    
+    
+}
+button{
+    padding: 30px 20px 10px;
+    width: 90px;
+    height: 90px;
+    border: #828fa3 5px solid;
+    border-radius: 10%;
+    margin: 20px 20px 50px;
+    padding: 5%;
+
+}
+img{
+    width: 90px;
+    height: 90px;
+    position:static;  
+}
+.w{
+    background-image: url(images/tom1.png);
+   font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.a{
+    background-image: url(images/tom2.png);
+    font-size: 40px;
+   color:red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.s{
+    background-image: url(images/tom3.png);
+    font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.d{
+    background-image: url(images/tom4.png);
+    font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.j{
+    background-image: url(images/snare.png);
+    font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.k{
+    background-image: url(images/crash.png);
+    font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.l{
+    background-image: url(images/kick.png);
+    font-size: 40px;
+   color: red;
+   font-family: 'Concert One', cursive;
+   font-family: 'Merriweather', serif;
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
